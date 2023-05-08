@@ -1,2 +1,2 @@
 # Prophet-Library
-Facebook Prophet is an open-source additive regressive algorithm for generating time-series models that is best suited for time series that have several seasonality. This project focuses on analyzing the trend &amp; seasonality of opening prices of Ethereum.
+Fbprophet is a widely used time series forecasting model. The model works well with seasonality and automatically detects changes and patterns in trends by selecting change points from the data. This project focuses on analyzing the trend and seasonality of opening prices of Ethereum, the second largest cryptocurrency by market capitalization. Subsequently we forecast the prices for the following year and attempt to predict the price for the next day. 
