@@ -1,2 +1,3 @@
 # Prophet-Library
 Fbprophet is a widely used time series forecasting model. The model works well with seasonality and automatically detects changes and patterns in trends by selecting change points from the data. This project focuses on analyzing the trend and seasonality of opening prices of Ethereum, the second largest cryptocurrency by market capitalization. Subsequently we forecast the prices for the following year and attempt to predict the price for the next day. 
+Further the tweets pertaining to Etheruem are collected for a sentiment analysis using the concepts of natural language processing.
